@@ -1,4 +1,4 @@
-baseURL = "https://kosli.com/secure-sdlc-process-template/"
+baseURL = "https://zelvorhq.github.io/sdlc-process/"
 languageCode = "en-us"
 title = "The Zelvor SDLC Process"
 theme = "hugo-book"
