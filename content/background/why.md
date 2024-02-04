@@ -35,8 +35,6 @@ Essentially, we must:
 2. *Implement*: Actually follow this process in our daily work
 3. *Prove*: Have the proof that we conform to the process during audit
 
-{{< figure src="/images/governance.svg" alt="Governance Framework" >}}
-
 ## What should be in a SSDLC process?
 
 Generally a process should define the activities and technologies used in the

@@ -4,7 +4,6 @@ title: Introduction
 bookToC: true
 ---
 
-{{< figure src="/images/hero-home.svg" alt="Secure SDLC Process Template">}}
 # The Zelvor SDLC Process
 
 

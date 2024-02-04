@@ -13,7 +13,7 @@ theme = "hugo-book"
   vcs = 'git'
   vcsHost = 'github'
   forkLink = 'https://github.com/kosli-dev/devopsctl/fork'
-  logo = 'svg/logo.svg'
+  logo = 'images/zelvor-logo-white.png'
   BookSection = '/'
 
 [markup]
